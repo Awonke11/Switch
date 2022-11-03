@@ -15,7 +15,7 @@ public class Main {
         System.out.println("Happy birthday baby.");
         break;
       case "October":
-        System.out.println("Happy birthday to me.");
+        System.out.println("Happy birthday to Me yay.");
         break;
     }
 
