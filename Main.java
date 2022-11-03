@@ -11,6 +11,12 @@ public class Main {
       case "January":
         System.out.println("Your birthday is on a new month.");
         break;
+      case "March":
+        System.out.println("Happy birthday baby.");
+        break;
+      case "October":
+        System.out.println("Happy birthday to me.");
+        break;
     }
 
     input.close();
